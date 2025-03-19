@@ -30,26 +30,29 @@ Run the hand landmark detection script using : python3 hand_landmark_detection.p
 
 Press `q` to quit the webcam window.
 
+
 ## Hand Landmark Index Reference (Mediapipe): 
 
-  0: Wrist
-  1: Thumb_CMC
-  2: Thumb_MCP
-  3: Thumb_IP
-  4: Thumb_Tip
-  5: Index_Finger_MCP
-  6: Index_Finger_PIP
-  7: Index_Finger_DIP
-  8: Index_Finger_Tip
-  9: Middle_Finger_MCP
-  10: Middle_Finger_PIP
-  11: Middle_Finger_DIP
-  12: Middle_Finger_Tip
-  13: Ring_Finger_MCP
-  14: Ring_Finger_PIP
-  15: Ring_Finger_DIP
-  16: Ring_Finger_Tip
-  17: Pinky_MCP
-  18: Pinky_PIP
-  19: Pinky_DIP
-  20: Pinky_Tip
+| Landmark ID | Landmark Description |
+|-------------|----------------------|
+| 0           | Wrist                |
+| 1           | Thumb_CMC            |
+| 2           | Thumb_MCP            |
+| 3           | Thumb_IP             |
+| 4           | Thumb_Tip            |
+| 5           | Index_Finger_MCP     |
+| 6           | Index_Finger_PIP     |
+| 7           | Index_Finger_DIP     |
+| 8           | Index_Finger_Tip     |
+| 9           | Middle_Finger_MCP    |
+| 10          | Middle_Finger_PIP    |
+| 11          | Middle_Finger_DIP    |
+| 12          | Middle_Finger_Tip    |
+| 13          | Ring_Finger_MCP      |
+| 14          | Ring_Finger_PIP      |
+| 15          | Ring_Finger_DIP      |
+| 16          | Ring_Finger_Tip      |
+| 17          | Pinky_MCP            |
+| 18          | Pinky_PIP            |
+| 19          | Pinky_DIP            |
+| 20          | Pinky_Tip            |
