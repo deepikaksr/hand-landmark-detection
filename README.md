@@ -26,9 +26,7 @@ git clone https://github.com/deepikaksr/hand-landmark-detection.git cd hand-land
 pip install -r requirements.txt
 
 ## Usage
-Run the hand landmark detection script:
-
-python3 hand_landmark_detection.py
+Run the hand landmark detection script using : python3 hand_landmark_detection.py
 
 Press `q` to quit the webcam window.
 
